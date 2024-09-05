@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js & MongoDB<br>👨🏻‍💻 Find my code files at https://github.com/AS-ciii?tab=repositories<br>📖 I’m currently learning SpringBoot<br>📬 Reach me out at ajaygsb123@gmail.com<br>⚡
+🔭 I’m currently working on Node.js & MongoDB<br>👨🏻‍💻 Find my code files at https://github.com/AS-ciii?tab=repositories<br>📖 I’m currently learning SpringBoot<br>📬 Reach me out at ajaygsb123@gmail.com<br>
 
 
 ## 🌐 Socials:
