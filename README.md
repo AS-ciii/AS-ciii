@@ -87,5 +87,6 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
 
 <!-- GitHub Trophies -->
 <div align="center">
+  
   [![](https://github-profile-trophy.vercel.app/?username=AS-ciii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)](https://github-profile-trophy.vercel.app/?username=AS-ciii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)
 </div>
