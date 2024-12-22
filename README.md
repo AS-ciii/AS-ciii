@@ -2,7 +2,7 @@
 <img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
 
 <!-- Header and greeting -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you here.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World!.</h1>
 
 <!-- Personal details -->
 <p>
@@ -75,18 +75,17 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
 ---
 
 <!-- GitHub Stats -->
-<div align="center" >
-  <a href="https://github.com/AS-ciii">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-  </a>
-</div>
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=AS-ciii&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AS-ciii&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AS-ciii&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
----
-
-<!-- GitHub Trophies -->
+<!-- GitHub Trophies 
 <div align="center">
   
   [![](https://github-profile-trophy.vercel.app/?username=AS-ciii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)](https://github-profile-trophy.vercel.app/?username=AS-ciii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)
 </div>
+-->
