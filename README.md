@@ -1,5 +1,5 @@
 <!-- Image on the right -->
-<img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://media3.giphy.com/media/yvip9WdhgJeAwJ58Ga/giphy.gif" alt="Coder GIF" width="350" height="350">
 
 <!-- Header and greeting -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World!.</h1>
@@ -27,6 +27,7 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
   <kbd>
     <kbd>Front-end</kbd>
     <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -34,11 +35,13 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
   <kbd>
     <kbd>Back-end</kbd>
     <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd>
     <kbd>Library/Frameworks</kbd>
+    <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -49,6 +52,7 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -56,12 +60,14 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
   <kbd>
     <kbd>Database</kbd>
     <br>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
+    <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
