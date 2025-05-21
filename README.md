@@ -79,6 +79,7 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
 </p>
 
 ---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3122gczlapgwodjlgx7ubkzm2r3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- GitHub Stats --
 <p align="center">
