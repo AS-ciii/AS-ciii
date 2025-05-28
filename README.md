@@ -79,7 +79,7 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
 </p>
 
 ---
-<!-- <p align="center">
+<<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3122gczlapgwodjlgx7ubkzm2r3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile"/>
   </a>
