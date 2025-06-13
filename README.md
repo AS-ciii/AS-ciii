@@ -8,7 +8,7 @@
 <p>
 I'm a Ajay Shenoy, a passionate software developer with a deep interest in building scalable and efficient systems. My expertise lies in Web Development, and mastering Data Structures and Algorithms.  
 I enjoy working with Spring Boot for backend development and React with Tailwind for creating clean and intuitive user interfaces.  
-Alongside coding, I love exploring new tools and technologies to refine my craft and contribute to impactful projects.
+Alongside coding, I love exploring new tools and technologies to refine my craft and contribute to impactful projects. Also I love playing chess.
 </p>
 
 <!-- Social Links -->
