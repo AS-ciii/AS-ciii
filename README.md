@@ -78,13 +78,13 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
   </kbd>
 </p>
 
-<!---
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3122gczlapgwodjlgx7ubkzm2r3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile"/>
   </a>
 </p>
-<!-- GitHub Stats --
+
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=AS-ciii&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AS-ciii&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
