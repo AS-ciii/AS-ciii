@@ -91,11 +91,10 @@ Alongside coding, I love exploring new tools and technologies to refine my craft
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AS-ciii&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-</p>
--->
-<-- GitHub Trophies 
+</p-->
+
+GitHub Trophies 
 <div align="center">
   
   [![](https://github-profile-trophy.vercel.app/?username=AS-ciii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)](https://github-profile-trophy.vercel.app/?username=AS-ciii&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)
 </div>
--->
