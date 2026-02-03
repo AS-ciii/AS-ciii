@@ -6,7 +6,7 @@
 
 <!-- Personal details -->
 <p>
-I'm a Ajay Shenoy, a passionate software developer with a deep interest in building scalable and efficient systems. My expertise lies in Web Development, and mastering Data Structures and Algorithms.  
+I'm a Ajay Shenoy P, a passionate software developer with a deep interest in building scalable and efficient systems. My expertise lies in Web Development, and mastering Data Structures and Algorithms.  
 I enjoy working with Spring Boot for backend development and React for creating clean and intuitive user interfaces. Currently focused on DSA.
 Alongside coding, I love exploring new tools and technologies to refine my craft and contribute to impactful projects.
 </p>
